@@ -1,0 +1,17 @@
+
+# Python environments
+.venv/
+.venv312/
+
+# Secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated repository and index data
+data/
+
+# macOS files
+.DS_Store
